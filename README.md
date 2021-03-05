@@ -1,1 +1,1 @@
-# dash-template
+# Airbnb Prediction App
